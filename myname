@@ -2,6 +2,5 @@
 
 main() {
 
-    printf("徐騷揚\");
+    printf("徐騷揚\n");
 }
-
